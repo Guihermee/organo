@@ -1,0 +1,11 @@
+:root {
+    --cor-principal: #6278F7;
+}
+
+.banner {
+    background-color: var(--cor-principal);
+}
+
+.banner img {
+    max-width: 100%;
+}
